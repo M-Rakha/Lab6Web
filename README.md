@@ -10,7 +10,7 @@ Universitas Pelita Bangsa
 Settup Bootstrap (Menggunakan CDN)
 Code:
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/bf4edae05350d0aa42dafebea5534d16728b6422/gambar%201.png)
 
 # 1. Container
 .container: Memberikan lebar maksimum yang tetap yang berubah pada ukuran layar tertentu.
@@ -19,11 +19,11 @@ p
 
 Code:
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/bf4edae05350d0aa42dafebea5534d16728b6422/gambar%201.1.png)
 
 Outputnya :
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/bf4edae05350d0aa42dafebea5534d16728b6422/output%201.png)
 
 # 2. Grid System (Sistem Grid)
 Membuat 3 kolom sama lebar yang di layout Praktikum4 11 harus menggunakan float: left12. Di Bootstrap.
