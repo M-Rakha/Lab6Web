@@ -110,42 +110,42 @@ Disini saya menggunakan Form Input :
 
 Code:
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/34707919f8ea75f1c1f428183c90b15e0c118210/tugas%202.png)
 
 Outputnya :
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/34707919f8ea75f1c1f428183c90b15e0c118210/output%20tugas%202.png)
 
 # 3. Tugas: Buat Halaman Portofolio Sederhana
 Buat satu halaman HTML baru (portofolio.html) menggunakan Bootstrap yang berisi:
 
 a. Sebuah Navbar di bagian atas:
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/34707919f8ea75f1c1f428183c90b15e0c118210/tugas%203.png)
 
 b. Sebuah section "Tentang Saya" di dalam .container dengan 1 baris (.row) dan 3 kolom (.col-md-4):
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/34707919f8ea75f1c1f428183c90b15e0c118210/tugas%203.1.png)
 
 kolom kiri (.col-md-4) berisi foto Anda (gunakan <img> dengan class .img-fluid).
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/34707919f8ea75f1c1f428183c90b15e0c118210/tugas%203.2.png)
 
 Kolom kanan (.col-md-8) berisi nama dan deskripsi diri Anda.
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/34707919f8ea75f1c1f428183c90b15e0c118210/tugas%203.3.png)
 
 c. Sebuah section "Portofolio Saya" di dalam .container dengan 1 baris (.row) dan 3 kolom (.col-md-4):
 
 Setiap kolom berisi satu komponen .card yang merepresentasikan satu proyek (beri gambar dummy dan deskripsi singkat).
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/34707919f8ea75f1c1f428183c90b15e0c118210/tugas%203.4.png)
 
 Outputnya :
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/34707919f8ea75f1c1f428183c90b15e0c118210/output%20tugas%203.png)
 
 Menu keahlian saya :
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/34707919f8ea75f1c1f428183c90b15e0c118210/output%20tugas%203.1.png)
 
