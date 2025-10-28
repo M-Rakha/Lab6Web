@@ -61,22 +61,22 @@ Card adalah container konten yang fleksibel.
 
 Code:
 
-p
+![gambar](https://github.com/M-Rakha/Lab6Web/blob/main/gambar%205.png?raw=true)
 
 Outputnya :
 
-p
+![gambar](https://github.com/M-Rakha/Lab6Web/blob/main/output%205.png?raw=true)
 
 # 6. Komponen: Form (Formulir)
 Bootstrap men-style elemen form agar terlihat rapi dan konsisten.
 
 Code:
 
-p
+![gambar](https://github.com/M-Rakha/Lab6Web/blob/main/gambar%206.png?raw=true)
 
 Outputnya :
 
-p
+![gambar](https://github.com/M-Rakha/Lab6Web/blob/main/output%206.png?raw=true)
 
 # Pertanyaan dan Tugas
 # 1. Refactor Layout Praktikum 4
@@ -84,22 +84,22 @@ Ambil layout web sederhana dari Praktikum4. Buat ulang layout tersebut menggunak
 
 Gunakan <nav> Bootstrap untuk bagian navigasi:
 
-p
+![gambar](https://github.com/M-Rakha/Lab6Web/blob/main/tugas%201.png?raw=true)
 
 Gunakan class .row dan .col-md-8 untuk _main content_ dan .col-md-4 untuk sidebar:
 
-p
+![gambar](https://github.com/M-Rakha/Lab6Web/blob/main/tugas%201.1.png?raw=true)
 
 
-p
+![gambar](https://github.com/M-Rakha/Lab6Web/blob/main/tugas%201.2.png?raw=true)
 
 Gunakan komponen .card Bootstrap:
 
-p
+![gambar](https://github.com/M-Rakha/Lab6Web/blob/main/tugas%201.3.png?raw=true)
 
 Outputnya :
 
-p
+![gambar](https://github.com/M-Rakha/Lab6Web/blob/main/output%20tugas%201.png?raw=true)
 
 # 2. Refactor Form Praktikum 5
 Ambil salah satu form dari Praktikum5 (misalnya Form Input 23 atau Form Button 24).
