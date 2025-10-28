@@ -30,7 +30,7 @@ Membuat 3 kolom sama lebar yang di layout Praktikum4 11 harus menggunakan float:
 
 Outputnya:
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/510de04d5c4290da3e76b39ae0fd030f1841f17f/output%202.png)
 
 Itu adalah Layout Praktikum4 yang sudah saya ubah ke Bootstrap.
 
@@ -39,22 +39,22 @@ Bootstrap menyediakan berbagai style tombol.
 
 Code:
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/510de04d5c4290da3e76b39ae0fd030f1841f17f/gambar%203.png)
 
 Outputnya :
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/510de04d5c4290da3e76b39ae0fd030f1841f17f/output%203.png)
 
 # 4. Komponen: Navbar (Navigasi)
 Membuat Navigasi responsive
 
 Code:
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/510de04d5c4290da3e76b39ae0fd030f1841f17f/gambar%204.png)
 
 Outputnya :
 
-p
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab6Web/510de04d5c4290da3e76b39ae0fd030f1841f17f/output%204.png)
 
 # 5. Komponen: Card (Kartu)
 Card adalah container konten yang fleksibel.
